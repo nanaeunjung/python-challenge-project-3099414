@@ -21,3 +21,8 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/python-challenge-project?dApp=59033956
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/C560DAQGBiWCh_f2DDA/learning-public-crop_675_1200/0/1673648477738?e=2147483647&v=beta&t=HrcVEBa1GOizezuCc0oviSDjzbxDPYgl18N804-UdGw
+
+### Course Goals
+1. Experience with large Python projects
+2. How to make software engineering decisions
+3. Get something on GitHub!
